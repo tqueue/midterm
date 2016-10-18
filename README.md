@@ -7,4 +7,7 @@ int j=2;
 
 printf("addition of two nos. is %d",i+j);
 getch();
+
+printf("multiplication of two elements  is %d",i*j);
+
 }
